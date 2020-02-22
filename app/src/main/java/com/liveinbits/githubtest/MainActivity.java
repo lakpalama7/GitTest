@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
     }
     private void sayHello(){
         Log.i("Tag", "sayHello: how r u");
+        Log.i("TAG","good byee");
     }
 }
