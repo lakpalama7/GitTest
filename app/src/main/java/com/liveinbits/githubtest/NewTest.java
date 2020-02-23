@@ -9,4 +9,7 @@ public class NewTest {
     private void display(){
         
     }
+    private void cal(){
+        
+    }
 }
