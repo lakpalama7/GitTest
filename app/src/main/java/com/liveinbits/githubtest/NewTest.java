@@ -12,4 +12,7 @@ public class NewTest {
     private void cal(){
         
     }
+    private  void go(){
+        
+    }
 }
