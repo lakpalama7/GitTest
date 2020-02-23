@@ -6,4 +6,7 @@ public class NewTest {
     private  void show(){
         Log.i("TAG", "show: hi");
     }
+    private void display(){
+        
+    }
 }
